@@ -18,7 +18,7 @@ img{
     max-width: 650px;
     border-radius: 1rem;
 }
-.container{
+main{
     background-color:white;
     padding: 1.5rem;
     border-radius: 1rem;
@@ -51,3 +51,4 @@ td{
 .values{
     color: hsl(14, 45%, 36%);
 }
+
