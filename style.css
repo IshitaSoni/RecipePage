@@ -15,14 +15,14 @@ h2{
 }
 img{
     width: 100%;
-    max-width: 650px; min-width: 300px;
+    max-width: 650px;
     border-radius: 1rem;
 }
 .container{
     background-color:white;
     padding: 1.5rem;
     border-radius: 1rem;
-    max-width: 650px; min-width: 300px;
+    max-width: 650px;
     justify-self: center;
 }
 .preparation{
@@ -51,4 +51,3 @@ td{
 .values{
     color: hsl(14, 45%, 36%);
 }
-
